@@ -5,7 +5,7 @@ Research Focus: Spintronics, Computational Physics, and Machine Learning
 
 ## Profile
 
-I am currently pursuing a Master's degree in Physics at Khulna University. My work centers on computational and theoretical approaches to condensed matter physics, with a particular emphasis on spintronics. I am developing a research trajectory aimed at pursuing a fully funded PhD at leading international institutions.
+I am currently pursuing a Master's degree in Physics at Khulna University. My work centers on computational and theoretical approaches to condensed matter physics, with a particular emphasis on spintronics.
 
 My current interests include domain wall dynamics, spin reversal mechanisms, and emerging topics such as altermagnetism. Alongside research, I am systematically strengthening my foundations in classical mechanics, quantum mechanics, statistical mechanics, and relativity.
 
